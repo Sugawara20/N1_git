@@ -1,0 +1,22 @@
+table{
+    border: 1px solid #000;
+    border-collapse: collapse;
+   padding: 0.3em;
+}
+
+th{
+    background-color: rgb(60, 154, 216);
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+}
+
+td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
