@@ -1,0 +1,51 @@
+.container {
+  
+    margin:0%;
+    
+    width: 100%;
+    text-align: justify;
+    height: 620px;
+   
+    color: white;
+    
+}
+
+.header{
+    
+    /*margin: 10px;*/
+    height: 80px;
+    background-color: 12AAFF;
+
+    
+}
+
+.main {
+   
+    text-align: center;
+    height: 400px;
+    width: 150px;
+    float: left;
+  
+    background-color: 12AAFF;
+}
+
+.side {
+   
+ 
+    height: 400px;
+    width: 1090px;
+    float: left;
+
+    background-color: E8E8E8;
+}
+
+.footer {
+    
+
+
+    height: 50px;
+    float: left;
+    width: 98%;
+
+    background-color: 636363;
+}
