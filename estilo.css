@@ -1,0 +1,22 @@
+.fondo{
+    background-color: #E8E8E8;
+}
+
+.block{
+    
+    background-color: white;
+    margin: 10%;
+    text-align: center;
+   
+    
+}
+
+.relleno{
+    background-color: #E8E8E8;
+    height: 30px;
+}
+
+.relleno2{
+    background-color: #E8E8E8;
+    height: 30px;
+}
